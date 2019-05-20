@@ -1,0 +1,8 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+poosi-4701d-firebase-adminsdk-q51v4-d518685d8d.json
